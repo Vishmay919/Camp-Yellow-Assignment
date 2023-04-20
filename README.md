@@ -8,7 +8,7 @@ To improve the UX of this Webpage, I have implemented the following:-
 
 4. Added a loading progress bar to provide users with a sense of control and transparency. This helps users understand how long the process will take and what to expect. The loading bar also reduces anxiety and increases engagement, as users are less likely to abandon the website if they can see that progress is being made.
 
-these design decisions were made with the goal of improving the website's usability, clarity, and engagement, and providing a seamless user experience.
+These design decisions were made with the goal of improving the website's usability, clarity, and engagement, and providing a seamless user experience.
 
 
 
